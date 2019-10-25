@@ -1,6 +1,6 @@
 # flutter_card_parsingdata_5
 
-A new Flutter project.
+A new Flutter project
 
 ## Getting Started
 
